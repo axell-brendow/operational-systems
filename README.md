@@ -1,2 +1,2 @@
 # operational-systems
-Repository for my Operational Systems discipline
+Repository for the discipline: Operational Systems
